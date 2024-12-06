@@ -1,0 +1,6 @@
+print('Hello, world!!!')
+print('Bom dia a todos!')
+print('Estou feliz!')
+print('e animada')
+print('é fim de ano')
+print('e estamos correndo')
